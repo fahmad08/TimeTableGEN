@@ -3,7 +3,7 @@ Timetable generator for university schedule implemented in Python using *genetic
 
 ### Abstract
 This project implements one of possible solutions for generating university schedule. 
-The proposed solution is based on methods of evolutionary computing, uses *(1+1) evolutionary strategy* and *simulated hardening*. 
+The proposed solution is based on methods of evolutionary computing, uses Genetic Algorithm* and *simulated hardening*. 
 The success of solution is estimated on fulfillment of given constraints and criteria. 
 Results of testing the algorithm show that all hard constraints are satisfied, while additional criteria are optimized to a certain extent.
 
