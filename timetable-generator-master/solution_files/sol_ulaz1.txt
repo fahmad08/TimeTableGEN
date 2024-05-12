@@ -1,0 +1,637 @@
+-------------------------- STATISTICS --------------------------
+
+Hard constraints satisfied: 100.00 %
+Soft constraints satisfied: 67.37 %
+
+TOTAL empty space for all GROUPS and all days: 70
+MAX empty space for GROUP in day: 4
+AVERAGE empty space for GROUPS per week: 2.92
+
+TOTAL empty space for all TEACHERS and all days: 15
+MAX empty space for TEACHER in day: 7
+AVERAGE empty space for TEACHERS per week: 0.39
+
+Free term -> Thursday: 11
+
+--------------------------- SCHEDULE ---------------------------
+
+Class 40
+Teacher: Asma Nasir 
+Subject: Web Programming 
+Groups: 301, 303, 304, 307, 308, 309, 314, 319, 322 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Tuesday 15 16
+
+Class 13
+Teacher: Kashif Mehmood 
+Subject: Graphic Design 2 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: K1 
+Time: Monday 12 13 14
+
+Class 29
+Teacher: Arsalan Javed 
+Subject: Human-Computer Interaction 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a, 2s1, 2s2 
+Type: P 
+Duration: 2 hour(s)
+Classroom: K1 
+Time: Tuesday 13 14
+
+Class 62
+Teacher: Maria Siddiqui 
+Subject: Software Components 
+Groups: 301, 307, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Wednesday 16 17
+
+Class 37
+Teacher: Salman Akhtar 
+Subject: Digital Signal Processing 
+Groups: 405 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U5 
+Time: Friday 9 10 11
+
+Class 1
+Teacher: Zahid Mahmood 
+Subject: Human-Computer Interaction 
+Groups: 301, 303, 304, 305 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Thursday 15 16
+
+Class 54
+Teacher: Nabeel Ansari 
+Subject: Machine Learning 
+Groups: 301, 302, 306, 308 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Tuesday 19 20
+
+Class 47
+Teacher: Hania Ameen 
+Subject: Data Center Infrastructure 
+Groups: 322, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Monday 19 20
+
+Class 36
+Teacher: Sameera Iqbal 
+Subject: Machine Learning 
+Groups: 301, 302, 306, 308 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Wednesday 19 20
+
+Class 43
+Teacher: Amna Mirza 
+Subject: Implementing Microsoft ISA Server 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Monday 15 16 17
+
+Class 51
+Teacher: Waqas Malik 
+Subject: Dedicated Computer Systems 
+Groups: 405 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Tuesday 15 16 17
+
+Class 23
+Teacher: Madiha Nadeem 
+Subject: Software Engineering 
+Groups: 402 
+Type: V 
+Duration: 4 hour(s)
+Classroom: U4 
+Time: Tuesday 9 10 11 12
+
+Class 50
+Teacher: Reema Aslam 
+Subject: Practical Techniques for Protection in IP Networks 
+Groups: 3s1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Friday 12 13 14
+
+Class 39
+Teacher: Huma Waheed 
+Subject: Microsoft Technologies for Data Access 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U3 
+Time: Tuesday 12 13 14
+
+Class 46
+Teacher: Zahid Mahmood 
+Subject: Human-Computer Interaction 
+Groups: 302, 306, 307 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Friday 15 16
+
+Class 7
+Teacher: Faizan Ali 
+Subject: Functional Programming 
+Groups: 302, 304, 309 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Monday 15 16
+
+Class 4
+Teacher: Arsalan Javed 
+Subject: Compiler Programming 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Tuesday 11 12
+
+Class 55
+Teacher: Noor Sami 
+Subject: Network Security 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Friday 15 16
+
+Class 33
+Teacher: Hania Ameen 
+Subject: Data Center Infrastructure 
+Groups: 322, 324 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Tuesday 9 10
+
+Class 6
+Teacher: Farah Saleem 
+Subject: Modeling and Simulation 
+Groups: 305, 309a, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Monday 9 10
+
+Class 0
+Teacher: Zahid Mahmood 
+Subject: Human-Computer Interaction 
+Groups: 308, 309, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Wednesday 14 15
+
+Class 53
+Teacher: Uzma Hayat 
+Subject: Introduction to Robotics 
+Groups: 313, 323 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Tuesday 13 14
+
+Class 5
+Teacher: Saad Iftikhar 
+Subject: Concurrent and Distributed Systems 
+Groups: 405 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Wednesday 9 10 11
+
+Class 60
+Teacher: Farah Saleem 
+Subject: Modeling and Simulation 
+Groups: 305, 309a, 319, 323, 324 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Monday 17 18
+
+Class 44
+Teacher: Sohail Khan 
+Subject: Managing and Maintaining a Windows Server Environment 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Monday 18 19 20
+
+Class 48
+Teacher: Saima Butt 
+Subject: Compiler Programming 
+Groups: 301, 305, 308 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Thursday 17 18
+
+Class 45
+Teacher: Tariq Hussain 
+Subject: Web Programming 
+Groups: 308, 309, 314, 319 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Friday 19 20
+
+Class 17
+Teacher: Rashid Minhas 
+Subject: Mobile Application Development 
+Groups: 303, 304, 305, 306, 307, 308, 314, 313 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Friday 17 18
+
+Class 49
+Teacher: Waqas Malik 
+Subject: Introduction to Robotics 
+Groups: 313, 323 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Friday 19 20
+
+Class 12
+Teacher: Sara Zafar 
+Subject: Genetic Algorithms 
+Groups: 305, 306, 309, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Monday 11 12
+
+Class 20
+Teacher: Saad Iftikhar 
+Subject: Theory of Algorithms, Automata, and Languages 
+Groups: 401, 402 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U8 
+Time: Thursday 15 16 17
+
+Class 59
+Teacher: Lubna Khalid 
+Subject: Music Production 3 
+Groups: 3d1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: Conference Hall 
+Time: Friday 15 16 17
+
+Class 19
+Teacher: Saad Iftikhar 
+Subject: Concurrent and Distributed Systems 
+Groups: 402 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U5 
+Time: Thursday 18 19 20
+
+Class 26
+Teacher: Bilal Rizvi 
+Subject: Computer Animation 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U8 
+Time: Monday 9 10 11
+
+Class 52
+Teacher: Nadia Yousaf 
+Subject: Functional Programming 
+Groups: 302, 304, 309 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Monday 17 18
+
+Class 21
+Teacher: Amna Mirza 
+Subject: Implementing Microsoft ISA Server 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U5 
+Time: Thursday 12 13 14
+
+Class 61
+Teacher: Shan Ali 
+Subject: History of Computing 
+Groups: 3s1, 3s2 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Monday 11 12
+
+Class 2
+Teacher: Madiha Nadeem 
+Subject: Software Engineering 
+Groups: 401 
+Type: V 
+Duration: 4 hour(s)
+Classroom: U5 
+Time: Wednesday 15 16 17 18
+
+Class 16
+Teacher: Alina Rafiq 
+Subject: Screenwriting and Shooting Script 
+Groups: 3d1 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Thursday 9 10
+
+Class 58
+Teacher: Alina Rafiq 
+Subject: Screenwriting and Shooting Script 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: K1 
+Time: Monday 15 16 17
+
+Class 68
+Teacher: Tasneem Akram 
+Subject: Coding and Information Theory 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U1 
+Time: Wednesday 15 16 17
+
+Class 63
+Teacher: Hania Ameen 
+Subject: Dedicated Computer Systems 
+Groups: 405 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U5 
+Time: Tuesday 18 19 20
+
+Class 28
+Teacher: Uzma Hayat 
+Subject: Digital Signal Processing 
+Groups: 405 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Wednesday 12 13 14
+
+Class 30
+Teacher: Salman Akhtar 
+Subject: Network Security 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Monday 14 15
+
+Class 11
+Teacher: Ahsan Jamil 
+Subject: Software Engineering 
+Groups: 401, 402 
+Type: P 
+Duration: 4 hour(s)
+Classroom: U8 
+Time: Monday 12 13 14 15
+
+Class 42
+Teacher: Uzma Hayat 
+Subject: Coding and Information Theory 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Friday 13 14
+
+Class 27
+Teacher: Saima Butt 
+Subject: Compiler Programming 
+Groups: 302, 303, 304 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Thursday 13 14
+
+Class 18
+Teacher: Faryal Murtaza 
+Subject: Development of Cloud Infrastructure and Services 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U5 
+Time: Thursday 15 16 17
+
+Class 57
+Teacher: Sohail Khan 
+Subject: Managing and Maintaining a Windows Server Environment 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U5 
+Time: Tuesday 15 16 17
+
+Class 66
+Teacher: Sara Zafar 
+Subject: Theory of Algorithms, Automata, and Languages 
+Groups: 401, 402 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U1 
+Time: Friday 16 17 18
+
+Class 22
+Teacher: Aamir Fazal 
+Subject: Development of Web Applications and Services 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Friday 15 16 17
+
+Class 64
+Teacher: Faryal Murtaza 
+Subject: Development of Cloud Infrastructure and Services 
+Groups: 3s2 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U3 
+Time: Friday 9 10 11
+
+Class 65
+Teacher: Iram Shehzadi 
+Subject: Mobile Application Development 
+Groups: 303, 304, 305, 306, 307, 308, 314, 313 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Monday 19 20
+
+Class 3
+Teacher: Junaid Khan 
+Subject: Software Components 
+Groups: 301, 307, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Friday 9 10
+
+Class 38
+Teacher: Yasir Shah 
+Subject: Practical Techniques for Protection in IP Networks 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U3 
+Time: Wednesday 9 10 11
+
+Class 14
+Teacher: Saima Butt 
+Subject: Compiler Programming 
+Groups: 306, 307, 309, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Thursday 19 20
+
+Class 25
+Teacher: Farah Saleem 
+Subject: Modeling and Simulation 
+Groups: 319, 323 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Monday 19 20
+
+Class 31
+Teacher: Tariq Hussain 
+Subject: Web Programming 
+Groups: 301, 303, 304, 307, 322 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Wednesday 12 13
+
+Class 24
+Teacher: Huma Waheed 
+Subject: Microsoft Technologies for Data Access 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U5 
+Time: Monday 16 17 18
+
+Class 56
+Teacher: Lubna Khalid 
+Subject: Music Production 3 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: Conference Hall 
+Time: Wednesday 15 16 17
+
+Class 9
+Teacher: Saad Iftikhar 
+Subject: Concurrent and Distributed Systems 
+Groups: 401 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Tuesday 18 19 20
+
+Class 32
+Teacher: Kashif Mehmood 
+Subject: Graphic Design 2 
+Groups: 3d1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: Raval2 
+Time: Wednesday 9 10 11
+
+Class 15
+Teacher: Bilal Rizvi 
+Subject: Computer Animation 
+Groups: 3d1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: U8 
+Time: Wednesday 12 13 14
+
+Class 8
+Teacher: Haris Aziz 
+Subject: Genetic Algorithms 
+Groups: 302, 303, 305, 306, 309, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Monday 13 14
+
+Class 41
+Teacher: Sara Zafar 
+Subject: Genetic Algorithms 
+Groups: 302, 303 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Wednesday 16 17
+
+Class 35
+Teacher: Mubeen Chohan 
+Subject: Data Compression 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U4 
+Time: Wednesday 18 19 20
+
+Class 10
+Teacher: Aamir Fazal 
+Subject: Development of Web Applications and Services 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U3 
+Time: Friday 18 19 20
+
+Class 34
+Teacher: Mubeen Chohan 
+Subject: Data Compression 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Monday 12 13
+
+Class 67
+Teacher: Saad Iftikhar 
+Subject: Concurrent and Distributed Systems 
+Groups: 401, 402, 405 
+Type: P 
+Duration: 3 hour(s)
+Classroom: U8 
+Time: Friday 13 14 15
